@@ -24,6 +24,7 @@
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidgyongyosi&theme=transparent&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgyongyosi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
