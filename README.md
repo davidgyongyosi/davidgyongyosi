@@ -24,7 +24,7 @@
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidgyongyosi&theme=transparent&hide_border=true)
-
+<img src="https://streak-stats.demolab.com?user=davidgyongyosi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgyongyosi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
