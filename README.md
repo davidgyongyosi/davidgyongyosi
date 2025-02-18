@@ -4,11 +4,12 @@
 
 
 ## 🌐 Socials:
-<center>
+
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgyongyosi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@majin-1337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david.gyongyosi@majin.dev) 
 
-</center>
+</div>
 
 # 💻 Tech Stack:
 
